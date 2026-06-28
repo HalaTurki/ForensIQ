@@ -1,1 +1,1 @@
-# ForensIQ
+ForensIQ — Digital Forensic Analysis Platform
