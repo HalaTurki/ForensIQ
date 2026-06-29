@@ -30,6 +30,9 @@ AI Model
 
 We use nuha-2.0, an Arabic-specialized language model, because:
 
+. Most victims in our target region communicate in Arabic dialects
+. Standard models miss indirect threats, sarcasm, and Gulf/Saudi slang
+. nuha-2.0 understands context and intent — not just keywords
 
 ------------------
 Team
