@@ -1,12 +1,12 @@
 # ForensIQ — Digital Forensic Analysis Platform
 ----------------------
-## ForensIQ is a web platform built for law enforcement and legal teams to analyze exported chat files. A victim uploads their chat export, the AI reads it, detects harmful content (threats, blackmail, fraud), and generates an official forensic report — all in seconds.
+### ForensIQ is a web platform built for law enforcement and legal teams to analyze exported chat files. A victim uploads their chat export, the AI reads it, detects harmful content (threats, blackmail, fraud), and generates an official forensic report — all in seconds.
 -------------------------
 ## Live Demo
 
-### 🔗 Reporter Portal (for victims): https://forensiq-jcjm.onrender.com
+## 🔗 Reporter Portal (for victims): https://forensiq-jcjm.onrender.com
 
-### 🔗 Analyst Dashboard (for reviewers): https://forensiq-jcjm.onrender.com/analyst
+## 🔗 Analyst Dashboard (for reviewers): https://forensiq-jcjm.onrender.com/analyst
 --------------------------
 The Problem
 
