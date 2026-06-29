@@ -6,7 +6,7 @@
 
 🔗 **Reporter Portal (for victims): https://forensiq-jcjm.onrender.com**
 
-🔗 ** Analyst Dashboard (for reviewers): https://forensiq-jcjm.onrender.com/analyst**
+🔗 **Analyst Dashboard (for reviewers): https://forensiq-jcjm.onrender.com/analyst**
 --------------------------
 ## The Problem
 
