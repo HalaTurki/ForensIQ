@@ -45,6 +45,16 @@ We use nuha-2.0, an Arabic-specialized language model, because:
 | Frontend | HTML, CSS, JavaScript |
 | Storage | JSON (cases.json) |
 ----------------------
-Team
+## Pages
+
+| URL | Who uses it | What it does |
+|-----|-------------|--------------|
+| `/` | Victim / Reporter | Upload the chat file |
+| `/submitted` | Victim | Confirmation + case reference number |
+| `/analyst` | Analyst | Dashboard of all submitted cases |
+| `/analyst/<case_id>` | Analyst | Full forensic report for one case |
+| `/download/<case_id>` | Analyst | Download PDF report |
+------------------
+## Team
 
 عدل — Law Track, Hackathon 2026
