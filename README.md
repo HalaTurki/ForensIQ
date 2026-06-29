@@ -35,6 +35,8 @@ We use nuha-2.0, an Arabic-specialized language model, because:
 . nuha-2.0 understands context and intent — not just keywords
 
 ------------------
+
+
 Team
 
 عدل — Law Track, Hackathon 2026
