@@ -12,21 +12,24 @@ The Problem
 
 Victims of digital harassment, blackmail, or fraud often have chat conversations as their only evidence. There was no easy way to:
 
-Verify the file has not been tampered with
-Automatically detect harmful content in Arabic conversations
-Generate a report that can be submitted to authorities
+. Verify the file has not been tampered with
+. Automatically detect harmful content in Arabic conversations
+. Generate a report that can be submitted to authorities
+
 ForensIQ solves all three.
 --------------------------
 What It Does
 
-Victim uploads their exported chat file (e.g. a WhatsApp .txt or .zip export) through a simple web form
-SHA-256 hash is generated instantly — proving the file is untampered
-AI analyzes the conversation and classifies it as: Threats / Blackmail / Fraud / Normal
-Analyst dashboard shows all submitted cases in real time
-PDF report is generated — formatted as a formal legal document ready for submission
+1. Victim uploads their exported chat file (e.g. a WhatsApp .txt or .zip export) through a simple web form
+2. SHA-256 hash is generated instantly — proving the file is untampered
+3. AI analyzes the conversation and classifies it as: Threats / Blackmail / Fraud / Normal
+4. Analyst dashboard shows all submitted cases in real time
+5. PDF report is generated — formatted as a formal legal document ready for submission
+-------------------------
 AI Model
 
 We use nuha-2.0, an Arabic-specialized language model, because:
+
 
 ------------------
 Team
