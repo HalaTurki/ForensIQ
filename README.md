@@ -8,7 +8,7 @@
 
 🔗 Analyst Dashboard (for reviewers): https://forensiq-jcjm.onrender.com/analyst
 --------------------------
-The Problem
+## The Problem
 
 Victims of digital harassment, blackmail, or fraud often have chat conversations as their only evidence. There was no easy way to:
 
@@ -18,7 +18,7 @@ Victims of digital harassment, blackmail, or fraud often have chat conversations
 
 ForensIQ solves all three.
 --------------------------
-What It Does
+## What It Does
 
 1. Victim uploads their exported chat file (e.g. a WhatsApp .txt or .zip export) through a simple web form
 2. SHA-256 hash is generated instantly — proving the file is untampered
@@ -26,7 +26,7 @@ What It Does
 4. Analyst dashboard shows all submitted cases in real time
 5. PDF report is generated — formatted as a formal legal document ready for submission
 -------------------------
-AI Model
+## AI Model
 
 We use nuha-2.0, an Arabic-specialized language model, because:
 
