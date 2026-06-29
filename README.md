@@ -35,8 +35,16 @@ We use nuha-2.0, an Arabic-specialized language model, because:
 . nuha-2.0 understands context and intent — not just keywords
 
 ------------------
+## Tech Stack
 
-
+| Layer | Technology |
+|-------|------------|
+| Backend | Python, Flask |
+| AI | nuha-2.0 via OpenAI-compatible API |
+| PDF Generation | fpdi2 |
+| Frontend | HTML, CSS, JavaScript |
+| Storage | JSON (cases.json) |
+----------------------
 Team
 
 عدل — Law Track, Hackathon 2026
