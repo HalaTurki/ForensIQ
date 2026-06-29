@@ -8,7 +8,7 @@
 https://forensiq-jcjm.onrender.com
 
 **Analyst Dashbord ( for reviewers):**
-https:/forensiq-jcjm.onrender.com/analyst
+https://forensiq-jcjm.onrender.com/analyst
 
 
 --------------------------
