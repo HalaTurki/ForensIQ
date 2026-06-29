@@ -19,8 +19,8 @@ Victims of digital harassment, blackmail, or fraud often have chat conversations
 . Verify the file has not been tampered with
 . Automatically detect harmful content in Arabic conversations
 . Generate a report that can be submitted to authorities
-
-ForensIQ solves all three.
+ 
+#### ForensIQ solves all three.
 --------------------------
 ## What It Does
 
